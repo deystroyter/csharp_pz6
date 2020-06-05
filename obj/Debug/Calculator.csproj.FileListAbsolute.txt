@@ -1,0 +1,10 @@
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 6\Calculator\bin\Debug\Calculator.exe.config
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 6\Calculator\bin\Debug\Calculator.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 6\Calculator\bin\Debug\Calculator.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 6\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 6\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 6\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 6\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 6\Calculator\obj\Debug\Calculator.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 6\Calculator\obj\Debug\Calculator.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 6\Calculator\obj\Debug\Calculator.iCalculator.resources
